@@ -12,6 +12,6 @@ You can use the provided world SVG in various ways, such as:
 
 ## SVG Preview
 
-![World SVG](world.svg)
+![World MAP SVG](https://world-map-svg-delta.vercel.app/)
 
 Feel free to reach out if you have any questions or suggestions!
